@@ -1,0 +1,33 @@
+C:\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csprojResolveAssemblyReference.cache
+C:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormUserLogin.resources
+C:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.cache
+C:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.CoreCompileInputs.cache
+C:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserSignUp.resources
+C:\Users\PC\Desktop\OOP2-safak\OOP2-safak\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\PC\Desktop\OOP2-safak\OOP2-safak\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\PC\Desktop\OOP2-safak\OOP2-safak\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\PC\Desktop\OOP2-safak\OOP2-safak\OnlineBookStore\obj\Debug\OnlineBookStore.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\OOP2-safak\OOP2-safak\OnlineBookStore\obj\Debug\OnlineBookStore.FormUserLogin.resources
+C:\Users\PC\Desktop\OOP2-safak\OOP2-safak\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\PC\Desktop\OOP2-safak\OOP2-safak\OnlineBookStore\obj\Debug\OnlineBookStore.UserSignUp.resources
+C:\Users\PC\Desktop\OOP2-safak\OOP2-safak\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\OOP2-safak\OOP2-safak\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\PC\Desktop\OOP2-safak\OOP2-safak\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\Mehmet CELIKHAN\Desktop\Nesne_Proje\Project\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\Mehmet CELIKHAN\Desktop\Nesne_Proje\Project\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\Mehmet CELIKHAN\Desktop\Nesne_Proje\Project\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\Mehmet CELIKHAN\Desktop\Nesne_Proje\Project\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet CELIKHAN\Desktop\Nesne_Proje\Project\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.denme.resources
+C:\Users\Mehmet CELIKHAN\Desktop\Nesne_Proje\Project\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.FormUserLogin.resources
+C:\Users\Mehmet CELIKHAN\Desktop\Nesne_Proje\Project\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\Mehmet CELIKHAN\Desktop\Nesne_Proje\Project\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.UserSignUp.resources
+C:\Users\Mehmet CELIKHAN\Desktop\Nesne_Proje\Project\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.Cache
+C:\Users\Mehmet CELIKHAN\Desktop\Nesne_Proje\Project\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet CELIKHAN\Desktop\Nesne_Proje\Project\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\Mehmet CELIKHAN\Desktop\Nesne_Proje\Project\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
